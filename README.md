@@ -1,4 +1,4 @@
-<h1 style="font-size: 50px; color: blue;">Web🏃🏽Development💻 with 💻Python</h1>
+<h1 style="font-size: 110px; color: blue;">Web🏃🏽Development💻 with 💻Python</h1>
 
 
 ![web-development-with-python](https://github.com/user-attachments/assets/2652770a-305d-4e11-8ed3-d5c53cc68ea5)
