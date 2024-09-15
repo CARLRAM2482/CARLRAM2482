@@ -12,7 +12,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avict18&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+
 
 
 
