@@ -9,11 +9,12 @@
 
 
 
-
 ![web-development-with-python](https://github.com/user-attachments/assets/2652770a-305d-4e11-8ed3-d5c53cc68ea5)    <img src="https://github.com/user-attachments/assets/63867f55-b632-450b-84b2-cf445f2eb4f5" alt="INSINIA" width="140"/> <img src="https://github.com/user-attachments/assets/850f3d41-9d2c-4301-8ee1-3094e6234859" alt="INSINIA" width="100"/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avict18&show_icons=true)
 
+
+<img src="https://img.shields.io/github/followers/CARLRAM2482?style=for-the-badge" alt="GitHub Followers"/>
 
 
 
